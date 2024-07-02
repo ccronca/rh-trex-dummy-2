@@ -1,0 +1,4 @@
+{
+    "rh-trex-dummy-1" : "quay.io/redhat-user-workloads/rh-trex-tenant/nudge-test/rh-trex-dummy-1@sha256:f977458ad05a3a03065d4865b000e6f4c7e6901441a522b0d2d82594156e32d0",
+    "rh-trex-dummy-1" : "quay.io/redhat-user-workloads/rh-trex-tenant/nudge-test/rh-trex-dummy-3@sha256:5a094ea084b3176407b7fc9a4d7c419cc2d7c891b82a80fb7e833d2978c921fc"
+}
